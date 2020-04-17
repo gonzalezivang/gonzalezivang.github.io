@@ -1686,6 +1686,11 @@ body {
 .cid-rWrYhWhmMt .dropdown-item:hover {
   color: #1c8ba1 !important;
 }
+.cid-rWs4JOgJbd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
 .cid-rWs3lsqGy2 .navbar {
   padding: .5rem 0;
   background: #000000;
